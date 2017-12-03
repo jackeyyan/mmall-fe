@@ -1,0 +1,12 @@
+/*
+* @Author: Jackey
+* @Date:   2017-12-02 20:30:20
+* @Last Modified by:   Jackey
+* @Last Modified time: 2017-12-03 18:15:55
+*/
+
+body{
+	background: url('../../image/test.jpg');
+	color :red;
+	font-size: 100px;
+}
