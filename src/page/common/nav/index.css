@@ -1,0 +1,29 @@
+/*
+* @Author: yong-yan
+* @Date:   2017-12-08 08:50:48
+* @Last Modified by:   yong-yan
+* @Last Modified time: 2017-12-08 09:01:38
+*/
+.nav{
+	background: #eee;
+	height:30px;
+	line-height: 30px;
+}
+
+.nav .user{
+	float: left;
+}
+.nav .user.login{
+	display: none;
+}
+.nav .user .link{
+	margin-right: 5px;
+}
+
+.nav .nav-list{
+	float: right;
+}
+.nav .nav-list .nav-item{
+	display: inline-block;
+	margin-left: 5px;
+}

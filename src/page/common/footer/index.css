@@ -1,0 +1,25 @@
+/*
+* @Author: yong-yan
+* @Date:   2017-12-08 11:19:04
+* @Last Modified by:   yong-yan
+* @Last Modified time: 2017-12-08 11:26:42
+*/
+
+.footer{
+	padding-bottom: 10px;
+	background: #eee;
+}
+.footer .links{
+	text-align: center;
+	color: #666;
+	line-height: 30px;
+}
+.footer .links .link{
+	padding:0 10px;
+}
+
+.footer .copyright{
+	text-align: center;
+	color: #666;
+	line-height: 30px;
+}

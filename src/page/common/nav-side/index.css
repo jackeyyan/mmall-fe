@@ -1,0 +1,27 @@
+/*
+* @Author: yong-yan
+* @Date:   2017-12-09 15:09:48
+* @Last Modified by:   yong-yan
+* @Last Modified time: 2017-12-09 15:47:41
+*/
+
+.nav-side{
+	float: left;
+	width: 130px;
+}
+.nav-side .nav-item{
+	line-height: 25px;
+	font-size: 13px;
+}
+.nav-side .nav-item .link{
+	color:#888;
+}
+
+.nav-side .nav-item.active .link{
+	color:#c60023;
+}
+
+.content.with-nav{
+     float:left;
+     width: 950px;
+}

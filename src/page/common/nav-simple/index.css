@@ -1,0 +1,19 @@
+/*
+* @Author: yong-yan
+* @Date:   2017-12-07 14:57:35
+* @Last Modified by:   yong-yan
+* @Last Modified time: 2017-12-07 15:21:07
+*/
+
+.nav-simple{
+	height: 60px;
+	line-height: 60px;
+	border-bottom: 1px solid #ddd;
+	background: #fff;
+}
+
+.nav-simple .logo{
+	font-size: 26px;
+	font-weight: bold;
+	color: #c60023;
+}
